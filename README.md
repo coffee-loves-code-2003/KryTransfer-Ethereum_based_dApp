@@ -21,3 +21,6 @@ Implemented using **Flutter Bloc** for efficient state handling and UI responsiv
 - **Ganache**
 - **JavaScript** (for importing smart contracts)
 - **Solidity** (for writing smart contracts)
+
+
+![Screenshot 2024-10-26 204022](https://github.com/user-attachments/assets/42d9e817-17e0-4a37-9249-db14710978cb)
