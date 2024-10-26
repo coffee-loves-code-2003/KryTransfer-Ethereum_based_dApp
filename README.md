@@ -35,9 +35,10 @@ Implemented using **Flutter Bloc** for efficient state handling and UI responsiv
 ## NFT Purchase UI
 ![Screenshot 2024-10-26 204732](https://github.com/user-attachments/assets/e907a32c-06f2-46ba-bdf6-0d66d2ccb4d7)
 
-
-![Screenshot 2024-10-26 204756](https://github.com/user-attachments/assets/8af208c6-bcce-4ea8-84cc-04657d4b2324)
+## Transaction Log for Blockchain Transaction
 ![Screenshot 2024-10-26 204831](https://github.com/user-attachments/assets/11165c39-f4ba-4757-a512-d3e83a174a66)
+
+## API Fetch from CoinGecko
 ![Screenshot 2024-10-26 204906](https://github.com/user-attachments/assets/0467c6c9-1c3b-45b6-b559-659dba59c12b)
 
 
