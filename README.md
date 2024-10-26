@@ -12,7 +12,7 @@ KryTransfer ensures a decentralized and secure platform for users to execute tra
 ## State Management
 Implemented using **Flutter Bloc** for efficient state handling and UI responsiveness.
 
-## Public Blockchain
+## Private Blockchain
 - **Truffle** 
 - **Ganache**
 
@@ -22,5 +22,15 @@ Implemented using **Flutter Bloc** for efficient state handling and UI responsiv
 - **JavaScript** (for importing smart contracts)
 - **Solidity** (for writing smart contracts)
 
-
+## Some Screenshots of the project
 ![Screenshot 2024-10-26 204022](https://github.com/user-attachments/assets/42d9e817-17e0-4a37-9249-db14710978cb)
+![Screenshot 2024-10-26 204127](https://github.com/user-attachments/assets/f383cc33-624f-4cb2-88bd-7e046cad32d0)
+![Screenshot 2024-10-26 204236](https://github.com/user-attachments/assets/189a676c-c157-44ee-b76d-e97db553a90c)
+![Screenshot 2024-10-26 204732](https://github.com/user-attachments/assets/e907a32c-06f2-46ba-bdf6-0d66d2ccb4d7)
+![Screenshot 2024-10-26 204756](https://github.com/user-attachments/assets/8af208c6-bcce-4ea8-84cc-04657d4b2324)
+![Screenshot 2024-10-26 204831](https://github.com/user-attachments/assets/11165c39-f4ba-4757-a512-d3e83a174a66)
+![Screenshot 2024-10-26 204906](https://github.com/user-attachments/assets/0467c6c9-1c3b-45b6-b559-659dba59c12b)
+
+
+
+
